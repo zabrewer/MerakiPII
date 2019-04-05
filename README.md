@@ -45,4 +45,4 @@ All example python files point to a file named config.ini for Meraki Dashboard A
 
 ##  Credit
 
-[shiyuechengineer](https://github.com/shiyuechengineer) wrote the error functions and non-PII functions.  I made use of the same in order to potentially merge this project into [the official meraki-dashboard](https://github.com/shiyuechengineer/meraki-dashboard) which does not currently contain PII API calls. 
+[shiyuechengineer](https://github.com/shiyuechengineer) wrote the error functions and non-PII functions.  I made use of the same in order to potentially merge this project into [the official meraki-dashboard Python module](https://github.com/shiyuechengineer/meraki-dashboard) which does not currently contain PII API calls. 
